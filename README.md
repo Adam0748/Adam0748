@@ -8,8 +8,12 @@
 
 [<img src='./Pictures/Proton Mail.svg' alt='github' height='30'>](mailto:Adam0747@proton.me)
 ## Statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Adam0748&show_icons=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Adam0748&show_icons=true)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Adam0748)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adam0748)](https://github.com/anuraghazra/github-readme-stats)
 ***
+## A cup of coffee to support my projects ☕
+<a href="https://www.buymeacoffee.com/adam0747" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+***
+
 ![](./Pictures/cat%20ghost.jpg)
